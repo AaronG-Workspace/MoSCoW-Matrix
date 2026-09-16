@@ -1,6 +1,6 @@
 # GitHub Feature Prioritization Using the MoSCoW Framework
 
-**Author:** CSP Student M252
+**Author:** CSP Student M252+ Claude Code
 **CST 640: Platform and Product Development — Week 7 Assignment**
 **Date:** 5/3/2026
 
